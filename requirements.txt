@@ -1,0 +1,8 @@
+# Derived from imports in the supplied source; versions are not verified.
+# Replace with the original tested environment before a reproducible release.
+torch
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib

@@ -1,0 +1,14 @@
+task,dataset,pred_len,seq_len,learning_rate,gating_topk,loss_moe,d_model,batch_size,threshold_ratio,level
+long-term,ECL,720,720,0.0001,3,0.05,1024,16,0.1,15
+long-term,ETTh1,720,96,0.001,2,1,512,8,0.1,7
+long-term,ETTh2,720,512,0.0005,1,1,64,128,0.1,7
+long-term,ETTm1,720,336,0.0001,3,10,512,128,0.1,7
+long-term,ETTm2,720,336,0.0001,3,10,64,128,0.1,7
+long-term,Weather,720,720,0.0001,3,0.1,128,16,0.1,15
+long-term,Exchange,720,96,0.0001,3,1,32,64,0.1,15
+long-term,Traffic,720,720,0.0001,3,1,2048,32,0.2,15
+long-term,Solar,720,512,0.0005,6,0.3,512,16,0.2,15
+short-term,PEMS03,12,96,0.001,6,0.3,1024,16,0.2,15
+short-term,PEMS04,12,96,0.001,6,0.3,768,16,0.2,15
+short-term,PEMS07,12,96,0.0005,6,0.3,768,16,0.2,15
+short-term,PEMS08,12,96,0.001,6,0.3,512,16,0.2,15

@@ -1,0 +1,2 @@
+# Used only by utils.tools.test_params_flop; requires a suitable CUDA runtime.
+ptflops

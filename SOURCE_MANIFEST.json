@@ -1,0 +1,75 @@
+{
+  "description": "Original source files copied byte for byte; SHA-256 values are for the supplied source bytes. Added documentation is not included in this manifest.",
+  "files": [
+    {
+      "path": "data_provider/__init__.py",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "data_provider/data_factory.py",
+      "bytes": 1788,
+      "sha256": "614712d3279d3c66c13054ac8b99f87e9683757b487adeb72957014d539ed7f8"
+    },
+    {
+      "path": "data_provider/data_loader.py",
+      "bytes": 19929,
+      "sha256": "2a78b4959f2d2c07905cd6b6c703121fc383726c12eb71e62b93d44ae709cd71"
+    },
+    {
+      "path": "exp/exp_basic.py",
+      "bytes": 885,
+      "sha256": "6c69badaaf13536a212e2b96975e2d59ebd7b5546550e487ea52249173e10afe"
+    },
+    {
+      "path": "exp/exp_main_MDK_MoE.py",
+      "bytes": 18159,
+      "sha256": "a1e63e2cf1c14965dfcc58a96501d2c5254da4e990254aa980bc3263bbef6534"
+    },
+    {
+      "path": "layers/Embed.py",
+      "bytes": 6572,
+      "sha256": "3743a14dd505f9caafb512727b10bec2d4a84d84cacc6f8936f33a5071e2a0a2"
+    },
+    {
+      "path": "models/MDK_MoE.py",
+      "bytes": 17599,
+      "sha256": "1c0e99b1e0cc11b4c7a4d8ea3f00ef9d10c2dc3399301b51f87b892f6dc4c70a"
+    },
+    {
+      "path": "RevIN/RevIN.py",
+      "bytes": 2175,
+      "sha256": "5db8661a17f61ca61ba302cebf16ce7e2762f6a97fc576260f169c0f50de9207"
+    },
+    {
+      "path": "run_MDK_MoE.py",
+      "bytes": 9116,
+      "sha256": "393c4915ec5a0e31889b6128bf0ad3a0868a64e970c4a00774cecada233d88d6"
+    },
+    {
+      "path": "scripts/exchange_rate_96.sh",
+      "bytes": 2192,
+      "sha256": "65bf0cd9c0fd6adc09611918f2fb41adec4ab794c7d1108a5d7a9221fe7ac536"
+    },
+    {
+      "path": "utils/masking.py",
+      "bytes": 832,
+      "sha256": "02f453e52cfaec65e34132923add80e7132f188706680fa86d7bd884976e09ef"
+    },
+    {
+      "path": "utils/metrics.py",
+      "bytes": 951,
+      "sha256": "9d61cbf6239d2749f7640eff9fa80e66a17dbbea1881b919c4375b126195294d"
+    },
+    {
+      "path": "utils/timefeatures.py",
+      "bytes": 3743,
+      "sha256": "2ad031a425f6f02b88db1918333a30937e41b18f435df90e6bcbb6470427221b"
+    },
+    {
+      "path": "utils/tools.py",
+      "bytes": 4593,
+      "sha256": "742c0bd16bbff2af44f7edcb11d1d31ad1f057aab829a0d6f7918ca9b531a87b"
+    }
+  ]
+}

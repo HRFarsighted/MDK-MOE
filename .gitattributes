@@ -1,0 +1,9 @@
+# Preserve original source bytes, including existing line endings.
+*.py -text
+*.sh -text
+*.png binary
+*.md text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.bib text eol=lf
+*.json text eol=lf
