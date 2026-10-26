@@ -168,7 +168,7 @@ The following is a provisional manuscript citation based on the supplied LaTeX s
   title = {{MDK-MoE}: Multi-view Decomposed Kalman Mixture of Experts Framework for Non-stationary Time Series Forecasting},
   author = {Hou, Rui and Liu, Yao and Jiang, Ruilin and Lu, Mengyao and Wang, Jingbo and Zhang, Lanyi and Liu, Qiao},
   year = {2026},
-  note = {Manuscript; final publication metadata pending}
+  booktitle = {Advances in Neural Information Processing Systems}
 }
 ```
 
